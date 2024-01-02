@@ -6,7 +6,7 @@ The Bible JSONify project is headed by [@WestonSchnee](https://github.com/Classi
 
 > There are **3** Bible versions currently ready for use
 
-1. NKJV (alternate source code)
+1. NKJV *(alternate source code structure)*
 2. KJV
 3. BBE
 
